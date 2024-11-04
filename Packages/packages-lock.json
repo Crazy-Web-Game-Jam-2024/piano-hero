@@ -311,6 +311,14 @@
       },
       "url": "https://packages.unity.com"
     },
+    "studio.physalia.flexi": {
+      "version": "file:studio.physalia.flexi",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.2"
+      }
+    },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
       "depth": 0,
