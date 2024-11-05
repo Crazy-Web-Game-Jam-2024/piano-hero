@@ -7,4 +7,7 @@ ScriptedImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-  script: {fileID: 11500000, guid: e7b7acce77cf4a03889a4239cf17b2c2, type: 3}
+  script: {instanceID: 0}
+  ImportSettings:
+    OverrideBpm: 0
+    Bpm: 120

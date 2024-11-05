@@ -5,7 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-internal class BaseSkill
+public class BaseSkill
 {
+    public bool IsDone { get; set; }
+    public void Tick(float deltaTime)
+    {
+
+    }
 }
 
